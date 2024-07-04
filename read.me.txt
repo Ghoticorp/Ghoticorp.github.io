@@ -1,3 +1,0 @@
-Websites such as w3 schools and free code camp were used to help source snippets of html, css and javascript.
-generative ai cuch as chat gpt 3.5, git hub copilot were used to help streamline the process, explain more complicated code (especially javascript) and get suggestions on how to better refine the code for my purposes
-overall, this was a great learning experience and i acknowledge that i have a long way to go still and need to practice more
